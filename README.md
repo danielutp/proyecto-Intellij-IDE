@@ -1,2 +1,6 @@
-# proyecto-Intellij-IDE
-proyecto de java en Intellij IDE 
+# Taller proyecto de java en Intellij IDE 
+---
+ 
+### Descripcion
+
+Se realiza proyecto solicitado en clase.
